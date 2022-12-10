@@ -13,6 +13,8 @@
 
 ![img-FXChu5kHTlUoNr3QmzrZ89iC.jpg](images%2Fimg-FXChu5kHTlUoNr3QmzrZ89iC.jpg)
 
+version 0.0.5-beta
+
 ### Introduction
 
 [Paradigms of Ruby: A Guide to Object-Oriented Programming](01_PARA_RUBY%2F01_PARADIGMS_OF_RUBY.md)
