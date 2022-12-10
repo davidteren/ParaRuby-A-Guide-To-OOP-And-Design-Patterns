@@ -1,14 +1,16 @@
-# ParaRuby (Paradigm in Ruby) - A Guide to OOP & Design Patterns
-
-> #### _Paradigms in Ruby is a guide to object-oriented programming and design patterns._
+<details open="">
+  <summary></summary>
+<div align="center" dir="auto">
+  <h1 style="font-weight: 600" >ParaRuby <br><span style="font-weight: 300; font-size: 1.5rem ">Paradigms in Ruby</span> </h1>
+<h>A Guide to OOP & Design Patterns in Ruby & Rails</h>
+</div>
+</details>
 
 ![img-FXChu5kHTlUoNr3QmzrZ89iC.jpg](images%2Fimg-FXChu5kHTlUoNr3QmzrZ89iC.jpg)
-
 
 ### Introduction
 
 [Paradigms of Ruby: A Guide to Object-Oriented Programming](01_PARA_RUBY%2F01_PARADIGMS_OF_RUBY.md)
-
 
 ### SOLID Principles
 
@@ -18,12 +20,11 @@
 
 [2. OCP - The Open Closed Principle](02_SOLID%2F02_OPEN_CLOSED_PRINCIPLE.md)
 
-[3. LSP -  The Liskov Substitution Principle](02_SOLID%2F03_LISKOV_SUBSTITUTION_PRINCIPLE.md)
+[3. LSP - The Liskov Substitution Principle](02_SOLID%2F03_LISKOV_SUBSTITUTION_PRINCIPLE.md)
 
 [4. ISP - The Interface Segregation Principle](02_SOLID%2F04_INTERFACE_SEGREGATION_PRINCIPLE.md)
 
 [5. Dependency Inversion Principle](02_SOLID%2F05_DEPENDENCY_INVERSION_PRINCIPLE.md)
-
 
 #### Examples
 
