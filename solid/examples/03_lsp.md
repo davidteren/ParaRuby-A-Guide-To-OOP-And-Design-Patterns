@@ -87,5 +87,5 @@ This code follows the LSP because the Parrot class is a true substitution for th
 
 ***
 
-| [Previous](../../02\_solid-6/examples/02\_ocp.md) | [Index](../../) | [Next](../../02\_solid-8/examples/04\_isp.md) |
-| ------------------------------------------------- | --------------- | --------------------------------------------- |
+| [Previous](02\_ocp.md) | [Index](../../) | [Next](04\_isp.md) |
+| ---------------------- | --------------- | ------------------ |

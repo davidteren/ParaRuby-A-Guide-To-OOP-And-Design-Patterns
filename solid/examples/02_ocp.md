@@ -81,5 +81,5 @@ This code follows the OCP because it is open for extension and closed for modifi
 
 ***
 
-| [Previous](../../02\_solid-5/examples/01\_srp.md) | [Index](../../) | [Next](../../02\_solid-7/examples/03\_lsp.md) |
-| ------------------------------------------------- | --------------- | --------------------------------------------- |
+| [Previous](01\_srp.md) | [Index](../../) | [Next](03\_lsp.md) |
+| ---------------------- | --------------- | ------------------ |

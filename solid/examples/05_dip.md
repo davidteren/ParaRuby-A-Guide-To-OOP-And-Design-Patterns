@@ -71,5 +71,5 @@ This code follows the DIP because the ReportGenerator class depends on the abstr
 
 ***
 
-| [Previous](../../02\_solid-8/examples/04\_isp.md) | [Index](../../) |   |
-| ------------------------------------------------- | --------------- | - |
+| [Previous](04\_isp.md) | [Index](../../) |   |
+| ---------------------- | --------------- | - |

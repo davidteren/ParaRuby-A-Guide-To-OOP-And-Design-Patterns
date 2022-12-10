@@ -1,4 +1,4 @@
-# SRP EXAMPLES
+# SRP Examples
 
 ## EXAMPLE 1
 
@@ -74,5 +74,5 @@ This code follows the SRP, because each class has a single responsibility: the D
 
 ***
 
-|   | [Index](../../) | [Next](../../02\_solid-6/examples/02\_ocp.md) |
-| - | --------------- | --------------------------------------------- |
+|   | [Index](../../) | [Next](02\_ocp.md) |
+| - | --------------- | ------------------ |

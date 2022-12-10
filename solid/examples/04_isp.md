@@ -107,5 +107,5 @@ This code follows the ISP because the Animal, Sleepable, and Speakable classes d
 
 ***
 
-| [Previous](../../02\_solid-7/examples/03\_lsp.md) | [Index](../../) | [Next](../../02\_solid-9/examples/05\_dip.md) |
-| ------------------------------------------------- | --------------- | --------------------------------------------- |
+| [Previous](03\_lsp.md) | [Index](../../) | [Next](05\_dip.md) |
+| ---------------------- | --------------- | ------------------ |

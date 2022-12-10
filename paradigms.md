@@ -1,6 +1,6 @@
 # Paradigms of Ruby: A Guide to Object-Oriented Programming
 
-![img-F8pcenTcrOzS8hRklI1UPpH6.jpg](../.gitbook/assets/img-F8pcenTcrOzS8hRklI1UPpH6.jpg)
+![img-F8pcenTcrOzS8hRklI1UPpH6.jpg](../images/img-F8pcenTcrOzS8hRklI1UPpH6.jpg)
 
 A paradigm is a way of thinking or a framework for understanding something. In the field of computer science, a paradigm refers to a set of concepts, practices, and assumptions that define a particular approach to solving problems. Examples of paradigms in computer science include object-oriented programming, functional programming, and procedural programming. These paradigms have different approaches to organizing code and solving problems, and they are often used to solve different types of problems or in different contexts.
 

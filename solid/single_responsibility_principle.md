@@ -1,4 +1,4 @@
-# The Single Responsibility Principle
+# Single Responsibility Principle (SRP)
 
 The Single Responsibility Principle (SRP) is a principle of object-oriented programming (OOP) that states that a class should only have a single responsibility, or a single reason to change. In other words, a class should focus on one specific aspect of the problem domain, and should not be cluttered with unrelated responsibilities or functionality.
 
@@ -497,5 +497,5 @@ describe ShoppingCartController do
 end
 ```
 
-| [Previous](the\_five\_principles.md) | [Index](../) | [Next](02\_open\_closed\_principle.md) |
-| ------------------------------------ | ------------ | -------------------------------------- |
+| [Previous](the\_five\_principles.md) | [Index](../) | [Next](open\_closed\_principle.md) |
+| ------------------------------------ | ------------ | ---------------------------------- |

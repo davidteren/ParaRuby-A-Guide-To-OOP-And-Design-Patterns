@@ -6,5 +6,5 @@ The Dependency Inversion Principle (DIP) is a principle of object-oriented desig
 >
 > The Dependency Inversion Principle is like a toy robot. A toy robot can do different things, like walk and talk and dance. And even though the robot can do all these different things, it doesn't have to do them all by itself. Instead, it can use other things to help it do the things it wants to do. For example, the robot might use batteries to make it move, and a speaker to make it talk. And even though the robot is using batteries and a speaker, it doesn't have to know how the batteries and the speaker work. It just has to know what they can do for it. In object-oriented programming, the toy robot is like a high-level module, and the batteries and the speaker are like low-level modules. The Dependency Inversion Principle says that high-level modules should use low-level modules without knowing how they work, so that the high-level modules can be more flexible and reusable.
 
-| [Previous](04\_interface\_segregation\_principle.md) | [Index](../) | [Next](../02\_solid-5/examples/01\_srp.md) |
-| ---------------------------------------------------- | ------------ | ------------------------------------------ |
+| [Previous](interface\_segregation\_principle.md) | [Index](../) | [Next](examples/01\_srp.md) |
+| ------------------------------------------------ | ------------ | --------------------------- |
