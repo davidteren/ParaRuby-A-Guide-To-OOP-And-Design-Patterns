@@ -1,4 +1,4 @@
-## SRP EXAMPLES
+[## SRP EXAMPLES
 
 ### EXAMPLE 1
 
@@ -71,5 +71,7 @@ end
 ```
 This code follows the SRP, because each class has a single responsibility: the DataFetcher class is responsible for fetching data, the Formatter class is responsible for formatting the data, and the Printer class is responsible for printing the report. This makes the code easier to maintain and reuse, because we can change the way the data is fetched, formatted, or printed by modifying the corresponding class without affecting the others.
 
-
 ---
+
+| [Previous](..%2F..%2F01_PARA_RUBY%2F01_PARADIGMS_OF_RUBY.md) | [Index](..%2F..%2FREADME.md) | [Next](02_OCP.md) |
+|--------------------------------------------------------------|------------------------------|-------------------|

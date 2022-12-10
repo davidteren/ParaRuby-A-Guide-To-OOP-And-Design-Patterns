@@ -83,3 +83,6 @@ end
 This code follows the LSP because the Parrot class is a true substitution for the Animal class. In particular, the Parrot class does not have a can_speak attribute and the speak method does not have any special behavior. This means that we can treat a Parrot object just like any other Animal object, and we can call the speak method on it without having to check whether it can speak or not.
 
 ---
+
+| [Previous](02_OCP.md) | [Index](..%2F..%2FREADME.md) | [Next](04_ISP.md) |
+|-----------------------|------------------------------|-------------------|

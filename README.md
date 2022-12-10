@@ -7,12 +7,12 @@
 
 ### Introduction
 
-[Paradigms.md](01_PARA_RUBY%2F01_PARADIGMS_OF_RUBY.md)
+[Paradigms of Ruby: A Guide to Object-Oriented Programming](01_PARA_RUBY%2F01_PARADIGMS_OF_RUBY.md)
 
 
 ### SOLID Principles
 
-[The Five Principles](02_SOLID%2F00_THE_FIVE_PRINCIPLES.md)
+[The Five Principles of Object Orientated Programming](02_SOLID%2F00_THE_FIVE_PRINCIPLES.md)
 
 [1. SRP - The Single Responsibility Principle](02_SOLID%2F01_SINGLE_RESPONSIBILITY_PRINCIPLE.md)
 

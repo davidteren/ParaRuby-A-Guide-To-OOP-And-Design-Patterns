@@ -77,3 +77,6 @@ end
 This code follows the OCP because it is open for extension and closed for modification. In particular, the generate method accepts a formatter object as an argument and calls the format method on it, without knowing or caring what class the object belongs to. This means that if we want to support a new format, such as JSON, we can create a new class, JSONFormatter, that implements the format method and pass an instance of this class to the generate method. The generate method will be able to use the format method without needing to be modified.
 
 ---
+
+| [Previous](01_SRP.md) | [Index](..%2F..%2FREADME.md) | [Next](03_LSP.md) |
+|-----------------------|------------------------------|-------------------|

@@ -71,4 +71,5 @@ This code follows the DIP because the ReportGenerator class depends on the abstr
 
 ---
 
-
+| [Previous](04_ISP.md) | [Index](..%2F..%2FREADME.md) |     |
+|-----------------------|------------------------------|-----|
