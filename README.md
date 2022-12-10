@@ -31,7 +31,7 @@ version 0.0.5-beta
 
 [4. ISP - The Interface Segregation Principle](02_SOLID%2F04_INTERFACE_SEGREGATION_PRINCIPLE.md)
 
-[5. Dependency Inversion Principle](02_SOLID%2F05_DEPENDENCY_INVERSION_PRINCIPLE.md)
+[5. DIP - Dependency Inversion Principle](02_SOLID%2F05_DEPENDENCY_INVERSION_PRINCIPLE.md)
 
 #### Examples
 
