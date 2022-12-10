@@ -73,5 +73,5 @@ This code follows the SRP, because each class has a single responsibility: the D
 
 ---
 
-|  | [Index](..%2F..%2FREADME.md) | [Next](02_OCP.md) |
-|--------------------------------------------------------------|------------------------------|-------------------|
+|     | [Index](..%2F..%2FREADME.md) | [Next](02_OCP.md) |
+|-----|------------------------------|-------------------|

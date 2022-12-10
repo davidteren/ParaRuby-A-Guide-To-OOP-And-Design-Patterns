@@ -5,3 +5,6 @@ Abstraction is the process of removing unnecessary details or complexities from 
 > Explain Abstraction like I'm five
 > 
 > Abstraction is like taking a really big thing and making it smaller and simpler. For example, if you have a really big box with lots of different things inside, you can take all the things out and put them in smaller boxes that are labeled with what's inside. This makes it easier to find the things you want, and you don't have to dig through the big box to find them. Abstraction is like organizing things into smaller, simpler parts.
+
+|     | [Index](..%2FREADME.md) |     |
+|-----|-------------------------|-----|

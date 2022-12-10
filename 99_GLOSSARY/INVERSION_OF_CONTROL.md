@@ -6,3 +6,6 @@ Inversion of control is a design principle in object-oriented programming where 
 > ### Explain Inversion of Control like I'm five
 > 
 > Inversion of control is like having a teacher who tells you what to do instead of you telling the teacher what to do. The teacher gives you a bunch of different things to do, and you can choose which ones you want to do and in what order. This way, you can learn and do lots of different things, and the teacher can help you when you need it. It's a lot more fun and interesting than just following the same old rules all the time.
+
+|     | [Index](..%2FREADME.md) |     |
+|-----|-------------------------|-----|

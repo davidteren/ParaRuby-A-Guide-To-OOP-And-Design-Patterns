@@ -104,4 +104,5 @@ This code follows the ISP because the Animal, Sleepable, and Speakable classes d
 
 ---
 
-
+| [Previous](03_LSP.md) | [Index](..%2F..%2FREADME.md) | [Next](05_DIP.md) |
+|-----------------------|------------------------------|-------------------|

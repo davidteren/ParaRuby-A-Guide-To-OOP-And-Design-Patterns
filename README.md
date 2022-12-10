@@ -2,7 +2,12 @@
   <summary></summary>
 <div align="center" dir="auto">
   <h1 style="font-weight: 600" >ParaRuby <br><span style="font-weight: 300; font-size: 1.5rem ">Paradigms in Ruby</span> </h1>
-<h>A Guide to OOP & Design Patterns in Ruby & Rails</h>
+<p>A Guide to OOP & Design Patterns in Ruby</p>
+
+[written by ChatGPT](https://openai.com/blog/chatgpt/)
+
+> includes _"Explain Like I'm Five"_
+
 </div>
 </details>
 
@@ -37,3 +42,12 @@
 [4. ISP](02_SOLID%2FEXAMPLES%2F04_ISP.md)
 
 [5. DIP](02_SOLID%2FEXAMPLES%2F05_DIP.md)
+
+### Glossary  
+
+- [Abstraction](99_GLOSSARY%2FABSTRACTION.md)
+- [Composition](99_GLOSSARY%2FCOMPOSITION.md)
+- [Inheritance](99_GLOSSARY%2FINHERITANCE.md)
+- [Inversion Of Control](99_GLOSSARY%2FINVERSION_OF_CONTROL.md)
+- [OOP](99_GLOSSARY%2FOOP.md)
+- [Polymorphism](99_GLOSSARY%2FPOLYMORPHISM.md)

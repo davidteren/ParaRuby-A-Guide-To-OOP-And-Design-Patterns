@@ -67,3 +67,6 @@ p1.greet(p2)
 ```
 
 In this code, we define a class called `Person` that has two attributes, `name` and `age`, and a method called `greet` that allows a `Person` object to greet another `Person` object. We then create two instances of the `Person` class and use the `greet` method to have one `Person` object greet the other. This example demonstrates how OOP allows us to model real-world objects and their interactions in a more intuitive and flexible way.
+
+|     | [Index](..%2FREADME.md) |     |
+|-----|-------------------------|-----|

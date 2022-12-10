@@ -25,4 +25,3 @@ These principles help to promote code that is more modular, reusable, and mainta
 
 | [Previous](..%2F01_PARA_RUBY%2F01_PARADIGMS_OF_RUBY.md) | [Index](..%2FREADME.md) | [Next](01_SINGLE_RESPONSIBILITY_PRINCIPLE.md) |
 |---------------------------------------------------------|-------------------------|-----------------------------------------------|
-

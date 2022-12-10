@@ -5,3 +5,6 @@ Inheritance is the ability of a class to inherit characteristics and behavior fr
 > Explain Inheritance like I'm five
 >
 > Inheritance is like when you have a big family and you all have the same last name. For example, your mom and dad might be the "parents" and you and your brothers and sisters are the "kids". You all have the same last name because you all come from the same family. This is inheritance because you all have the same thing (the last name) because you come from the same place (the family). So when someone says your last name, they know you're part of the same family. It's like a magic word that tells people where you come from.
+
+|     | [Index](..%2FREADME.md) |     |
+|-----|-------------------------|-----|

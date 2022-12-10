@@ -87,8 +87,7 @@ RSpec.describe Shapes do
 end
 ```
 
-In this example, the Circle and Square classes both inherit from the Shape class, and they each implement the area method in a way that is specific to their respective shape
-
+In this example, the Circle and Square classes both inherit from the Shape class, and they each implement the area method in a way that is specific to their respective shape.
 
 | [Previous](02_OPEN_CLOSED_PRINCIPLE.md) | [Index](..%2FREADME.md) | [Next](04_INTERFACE_SEGREGATION_PRINCIPLE.md) |
-|-----------------------------------------|-------------------------|-----------|
+|-----------------------------------------|-------------------------|-----------------------------------------------|
