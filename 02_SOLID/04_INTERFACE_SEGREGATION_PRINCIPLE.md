@@ -7,3 +7,5 @@ The Interface Segregation Principle (ISP) is a principle of object-oriented desi
 > 
 > The Interface Segregation Principle is like a toolbox. In a toolbox, there are different tools for different jobs. For example, there might be a hammer for pounding nails, and a screwdriver for turning screws. And even though the hammer and the screwdriver are both tools, they are not used for the same thing. So if you want to use the hammer, you don't have to look through the whole toolbox to find it. You can just go to the part of the toolbox where the hammers are, and take out the one you need. In object-oriented programming, the tools are like methods, and the toolbox is like an interface. The Interface Segregation Principle says that interfaces should be organized into small, specific parts, so that you can easily find the methods you need without having to look through lots of other methods that you don't need.
 
+| [Previous](03_LISKOV_SUBSTITUTION_PRINCIPLE.md) | [Index](..%2FREADME.md) | [Next](05_DEPENDENCY_INVERSION_PRINCIPLE.md) |
+|-------------------------------------------------|-------------------------|----------------------------------------------|

@@ -237,3 +237,7 @@ end
 ```
 
 In this code example, the Shape, Circle, and Square classes demonstrate the Open/Closed Principle (OCP) by being open for extension and closed for modification. The Shape class is open for extension, as it allows developers to easily create new shapes by inheriting from the Shape class and implementing the appropriate methods. However, the Shape class is closed for modification, as the existing methods and interfaces should not be changed in order to maintain backward compatibility and avoid breaking existing code. The Shapes class is also open for extension, as it allows developers to easily add support for new shapes by implementing the appropriate interfaces. However, the Shapes class is closed for modification, as the existing methods and interfaces should not be changed in order to maintain backward compatibility and avoid breaking existing code.
+
+
+| [Previous](01_SINGLE_RESPONSIBILITY_PRINCIPLE.md) | [Index](..%2FREADME.md) | [Next](03_LISKOV_SUBSTITUTION_PRINCIPLE.md) |
+|---------------------------------------------------|-------------------------|---------------------------------------------|
