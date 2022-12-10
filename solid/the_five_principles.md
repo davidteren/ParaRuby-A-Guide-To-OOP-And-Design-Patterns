@@ -20,5 +20,5 @@ These principles help to promote code that is more modular, reusable, and mainta
 > * The I in SOLID stands for Interface Segregation Principle, which is like a toolbox with different tools for different jobs.
 > * And the D in SOLID stands for Dependency Inversion Principle, which is like a toy robot that can use other things to help it do the things it wants to do.
 
-| [Previous](../01\_PARA\_RUBY/01\_PARADIGMS\_OF\_RUBY.md) | [Index](../) | [Next](01\_single\_responsibility\_principle.md) |
+| [Previous](../01\_para\_ruby/01\_paradigms\_of\_ruby.md) | [Index](../) | [Next](01\_single\_responsibility\_principle.md) |
 | -------------------------------------------------------- | ------------ | ------------------------------------------------ |

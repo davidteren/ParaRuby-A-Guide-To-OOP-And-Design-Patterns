@@ -2,7 +2,7 @@
 
 * [Paradigms of Ruby: A Guide to Object-Oriented Programming](README.md)
 * [01\_PARA\_RUBY](01\_para\_ruby/README.md)
-  * [Paradigms of Ruby: A Guide to Object-Oriented Programming](01\_PARA\_RUBY/01\_PARADIGMS\_OF\_RUBY.md)
+  * [Paradigms of Ruby: A Guide to Object-Oriented Programming](01\_para\_ruby/01\_paradigms\_of\_ruby.md)
 * [SOLID](solid/README.md)
   * [What is SOLID](solid/the\_five\_principles.md)
   * [The Single Responsibility Principle](solid/01\_single\_responsibility\_principle.md)
@@ -44,4 +44,4 @@
     * [DIP](02\_solid-9/examples/05\_dip.md)
 * [RAILS](rails/README.md)
   * [PATTERNS](rails/patterns/README.md)
-    * [Rails Patterns](<RAILS/PATTERNS/00\_RAILS PATTERNS.md>)
+    * [Rails Patterns](rails/patterns/00\_rails-patterns.md)
