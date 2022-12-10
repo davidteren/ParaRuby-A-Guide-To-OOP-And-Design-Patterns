@@ -6,3 +6,6 @@ A paradigm is a way of thinking or a framework for understanding something. In t
 > ### Explain a paradigm like I'm five 
 > 
 > A paradigm is a big idea or framework that helps us understand something. It's like a set of rules or a way of thinking that helps us solve problems and make sense of things. In the world of computers, a paradigm is a way of thinking about how to write programs and solve problems using computers. For example, object-oriented programming is a paradigm that teaches us how to organize our code and think about solving problems in a certain way. Paradigms help us understand how to write programs and solve problems in different programming languages, like Ruby.
+
+| | [Index](..%2FREADME.md) | [Next](..%2F02_SOLID%2F00_THE_FIVE_PRINCIPLES.md) |
+|-----------------------|------------------------------|-------------------|

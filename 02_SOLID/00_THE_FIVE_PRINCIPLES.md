@@ -22,3 +22,7 @@ These principles help to promote code that is more modular, reusable, and mainta
 > - The L in SOLID stands for Liskov Substitution Principle, which is like a game of hide and seek that different people can play together. 
 > - The I in SOLID stands for Interface Segregation Principle, which is like a toolbox with different tools for different jobs. 
 > - And the D in SOLID stands for Dependency Inversion Principle, which is like a toy robot that can use other things to help it do the things it wants to do.
+
+| [Previous](..%2F01_PARA_RUBY%2F01_PARADIGMS_OF_RUBY.md) | [Index](..%2FREADME.md) | [Next](01_SINGLE_RESPONSIBILITY_PRINCIPLE.md) |
+|---------------------------------------------------------|-------------------------|-----------------------------------------------|
+

@@ -1,4 +1,4 @@
-[## SRP EXAMPLES
+## SRP EXAMPLES
 
 ### EXAMPLE 1
 
@@ -73,5 +73,5 @@ This code follows the SRP, because each class has a single responsibility: the D
 
 ---
 
-| [Previous](..%2F..%2F01_PARA_RUBY%2F01_PARADIGMS_OF_RUBY.md) | [Index](..%2F..%2FREADME.md) | [Next](02_OCP.md) |
+|  | [Index](..%2F..%2FREADME.md) | [Next](02_OCP.md) |
 |--------------------------------------------------------------|------------------------------|-------------------|
