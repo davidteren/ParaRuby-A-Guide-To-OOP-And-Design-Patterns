@@ -1,8 +1,10 @@
-### This repo will be archived. 
-# [ParfaRuby is here](https://davidteren.github.io/para_ruby)
+# This repo will be archived. 
+</br></br>
 
+## [>>>>>>>>> ParaRuby is here <<<<<<<<](https://davidteren.github.io/para_ruby)
 
-<details open="">
+</br></br></br></br>
+<details open="false">
   <summary></summary>
 <div align="center" dir="auto">
   <h1 style="font-weight: 600" >ParaRuby <br><span style="font-weight: 300; font-size: 1.5rem ">Paradigms in Ruby</span> </h1>
