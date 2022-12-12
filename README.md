@@ -1,3 +1,7 @@
+### This repo will be archived. 
+# [ParfaRuby is here](https://davidteren.github.io/para_ruby)
+
+
 <details open="">
   <summary></summary>
 <div align="center" dir="auto">
